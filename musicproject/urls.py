@@ -12,3 +12,4 @@ urlpatterns = [
     path('musicproject/', include(router.urls)),
     path('musicproject-auth/', include('rest_framework', namespace='rest_framework'))
 ]
+# yan
